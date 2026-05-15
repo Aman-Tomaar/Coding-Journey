@@ -29,6 +29,7 @@ int main(){
             printf("YOU HAVE GUESSED THE NUMBER CORRECTY\n");
             printf("NUMBER WAS %d\n",randnum);
             printf("IT TOOK YOU %d TRY(s)",tries);
+            printf("**** THANK YOU ****\n");
             break;
         }
 
