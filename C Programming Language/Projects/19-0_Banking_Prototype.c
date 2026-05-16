@@ -61,7 +61,7 @@ float withdraw(float balance){
     float wmoney = 0.0f;
     printf("ENTER THE AMOUNT OF MONEY YOU WANT TO WITHDRAW: ");
     scanf("%f", &wmoney);
-    printf("WITHDRAWING $%.f FROM YOUR BANK ACCOUNT\n",wmoney);
+    printf("WITHDRAWING $%.2f FROM YOUR BANK ACCOUNT\n",wmoney);
     if(balance < wmoney){
         printf("WITHDRAWING FAILED !!!\nYOU ONLY GOT $%.2f IN YOUR BANK ACCOUNT\n",balance);
         return 0.0f;
