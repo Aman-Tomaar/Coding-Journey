@@ -1,0 +1,23 @@
+# C / C++ compiled files
+*.exe
+*.o
+*.out
+tempCodeRunnerFile*
+
+# Python caches and virtual environments (for later)
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# VS Code workspace settings (optional, keeps repo clean)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Specific files to never upload
+rough_work.c
+main.c
+roughwork.cpp
