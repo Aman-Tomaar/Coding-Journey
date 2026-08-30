@@ -14,7 +14,7 @@ user_input = input("Enter a student name: ")
 user_input = (
     user_input.capitalize()
 )  # Capitalize the first letter of the input to match the list format
-if user_input in studets:
+if user_input in students:
     print(f"{user_input} is present in the students list.")
-elif user_input not in studets:
+elif user_input not in students:
     print(f"{user_input} is not present in the students list.")
