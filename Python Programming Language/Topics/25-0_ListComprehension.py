@@ -1,3 +1,4 @@
+# list comprehension = [expression for value in iterable if condition]
 doubles = [x * 2 for x in range(1, 11)]
 triples = [x * 3 for x in range(1, 11)]
 squares = [x * x for x in range(1, 11)]
