@@ -24,4 +24,5 @@ def day(n):
 
 
 day_number = int(input("Enter a day number (1-7): "))
+
 print(day(day_number))
