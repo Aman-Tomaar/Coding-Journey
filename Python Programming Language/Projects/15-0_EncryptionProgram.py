@@ -34,4 +34,4 @@ for letter in user_cipher:
     else:
         plain_text_recovered += letter
 
-print(f"Recovered original message : {plain_text_recovered}")
+print(f"Recovered original message: {plain_text_recovered}")
