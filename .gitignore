@@ -9,6 +9,7 @@ __pycache__/
 *.pyc
 .venv/
 env/
+temp.py
 
 # VS Code workspace settings (optional, keeps repo clean)
 .vscode/
