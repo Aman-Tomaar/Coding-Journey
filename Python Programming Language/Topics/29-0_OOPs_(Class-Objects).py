@@ -1,3 +1,6 @@
+# object : A "bundle" of related attributes (variables) & methods (functions)
+#          Ex. phone, cup, book
+#          You need a class to create objects
 from car import Car
 
 car1 = Car("Mustang", 2024, "red", False)
@@ -10,5 +13,5 @@ print(car1.color)
 print(car1.for_sale)
 
 car1.drive()
-car1.stop()
+car2.stop()
 car3.describe()
