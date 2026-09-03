@@ -1,4 +1,5 @@
-#
+# super() function is used to call the parent class constructor from the child class constructor.
+#         Allows you to extend the functionlity of the inherited method.
 
 
 class shape:
