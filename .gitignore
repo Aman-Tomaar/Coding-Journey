@@ -9,7 +9,6 @@ __pycache__/
 *.pyc
 .venv/
 env/
-temp.py
 
 # VS Code workspace settings (optional, keeps repo clean)
 .vscode/
@@ -22,3 +21,5 @@ Thumbs.db
 rough_work.c
 main.c
 roughwork.cpp
+temp.py
+test.txt
